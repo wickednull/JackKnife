@@ -31,10 +31,15 @@ Install with:
 ```bash
 sudo apt install python3 python3-pip nmap net-tools aircrack-ng macchanger tcpdump iftop whois hostapd dnsmasq bluez xclip -y
 pip3 install scapy
+```
 
-🚀 Usage
+🚀 Usage 
+```bash
 
 sudo python3 jackknife.py
+
+```
+
 
 You’ll be presented with a clean, menu-driven terminal UI where you can pick from over a dozen tools.
 
