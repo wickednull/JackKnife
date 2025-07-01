@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/53ca7f0e-cc12-41f9-ad6a-5f016a3d3fc6)
+
 # JackKnife
 JackKnife is a versatile red teaming and pentest CLI toolkit featuring 30+ tools for scanning, spoofing, exploitation, wireless attacks, and recon—packed into one sleek script. Built for speed, stealth, and on-the-fly ops.
 
